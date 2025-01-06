@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module05Forms.PersonalInfoPage"
+             Title="Personal Information Page">
+    <ContentPage.Content>
+        <StackLayout Padding="25">
+
+            <Label Text="Personal Information Page"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="CenterAndExpand" 
+                   TextColor="Black"
+                   Margin="0,10"/>
+
+            <Entry Placeholder="First Name" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Entry Placeholder="Middle Name" 
+                       Grid.ColumnSpan="4"
+                       IsEnabled="{Binding IsToggled, Source={x:Reference MiddleNameSwitch}}" />
+                <Switch x:Name="MiddleNameSwitch" 
+                        Grid.Column="4"
+                        HorizontalOptions="End"
+                        IsToggled="True">   
+                    <Switch.Resources>
+                        <Style TargetType="Switch">
+                            <Style.Setters>
+                                <Setter Property="ThumbColor"
+                                        Value="#5929AC" />
+                                <Setter Property="OnColor"
+                                        Value="#9E72C3" />
+                            </Style.Setters>
+                            <Style.Triggers>
+                                <Trigger TargetType="Switch" 
+                                         Property="IsToggled" 
+                                         Value="False">
+                                    <Setter Property="ThumbColor"
+                                            Value="#452574" />
+                                    <Setter Property="OnColor"
+                                            Value="#7338A0" />
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Switch.Resources>
+                </Switch>
+            </Grid>
+
+            <Entry Placeholder="Last Name" />
+
+            <Picker Title="Gender">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Male</x:String>
+                        <x:String>Female</x:String>
+                        <x:String>Other</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+
+            <DatePicker x:Name="BirthDatePicker"
+                        DateSelected="OnDateSelected" 
+                        Format="D" />
+
+            <Label x:Name="AgeInitialLabel" 
+                   Text="Age:" 
+                   TextColor="Black" 
+                   FontSize="18" />
+            <Label x:Name="AgeDynamicLabel"
+                   Text="{Binding AgeLabelText}" 
+                   TextColor="Black" 
+                   FontSize="18"  
+                   IsVisible="False" />
+
+            <Entry Placeholder="Address" />
+
+            <Entry Placeholder="Contact Number" 
+                   Keyboard="Telephone" />
+
+            <Entry Placeholder="Email" 
+                   Keyboard="Email" />
+
+            <Entry Placeholder="Username" />
+
+            <Entry Placeholder="Password" 
+                   IsPassword="True" />
+
+            <Entry Placeholder="Repeat Password" 
+                   IsPassword="True" 
+                   Margin="0,0,0,15"/>
+
+            <Button Text="Submit" 
+                    BackgroundColor="#5929AC"
+                    Clicked="OnSubmitClicked" 
+                    TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

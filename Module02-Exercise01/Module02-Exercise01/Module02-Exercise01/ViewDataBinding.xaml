@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module02_Exercise01.ViewDataBinding" 
+             Title="View to View Data Binding">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                     Padding="10"
+                     Spacing="50">
+
+            <!-- 2 Elements - Using BindingContext and without Setting Mode -->
+            <StackLayout>
+                <Label Text="Label and Entry"
+                       Margin="0,0,0,10"
+                       FontAttributes="Bold"
+                       FontSize="20"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" />
+                
+                <Frame HorizontalOptions="Center"
+                       VerticalOptions="Center">
+                    <Label Text="{Binding Text}"
+                           BindingContext="{x:Reference EntryForLabel}"
+                           FontSize="Medium"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center"/>
+                </Frame>
+                
+                <Entry x:Name="EntryForLabel"
+                       VerticalOptions="Center" />
+            </StackLayout>
+
+            <!-- 2 Elements - Using Binding markup and with Setting Mode -->
+            <StackLayout>
+                <Label Text="Entry and Entry - OneWay"
+                       FontAttributes="Bold"
+                       FontSize="20"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center" />
+                
+                <Entry x:Name="EntryForEntry"/>
+                <Entry Text="{Binding Text, Source={x:Reference EntryForEntry}, Mode=OneWay}" />
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.TextCell"
+             Title="Games">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#FFFFFF"
+                     Padding="15">
+
+            <!-- Arcade Games -->
+            <Label Text="Arcade Games" 
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#000000"/>
+            <Frame Padding="10" 
+                   Margin="10" 
+                   CornerRadius="12" 
+                   HasShadow="False">
+                <ListView x:Name="ArcadeGames"
+                          ItemsSource="{Binding SuperMarioArcadeGames}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding GameName}" 
+                                      TextColor="Black"
+                                      Detail="{Binding Year}"
+                                      DetailColor="#E52521">
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+            
+            <!-- Nintendo Games -->
+            <Label Text="Nintendo Games" 
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#000000"/>
+            <Frame Padding="10" 
+                   Margin="10" 
+                   CornerRadius="10" 
+                   HasShadow="False">
+                <ListView x:Name="NintendoGames"
+                          ItemsSource="{Binding SuperMarioNintendoGames}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding GameName}" 
+                                      TextColor="Black"
+                                      Detail="{Binding Year}"
+                                      DetailColor="#E52521">
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+
+            <!-- WII Games -->
+            <Label Text="WII Games"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#000000"/>
+            <Frame Padding="10" 
+                   Margin="10" 
+                   CornerRadius="10" 
+                   HasShadow="False">
+                <ListView x:Name="WIIGames"
+                          ItemsSource="{Binding SuperMarioWIIGames}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding GameName}" 
+                                      TextColor="Black"
+                                      Detail="{Binding Year}"
+                                      DetailColor="#E52521">
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Frame>
+
+        </StackLayout>
+    </ContentPage.Content>
+    
+</ContentPage>

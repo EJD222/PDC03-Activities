@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module03Layout.MainPage"
+             Title="ELMALIA JANE S. DIAZ">
+    
+    <StackLayout Spacing="10" 
+                 Padding="50"
+                 VerticalOptions="CenterAndExpand">
+        
+        <Label Text="Dashboard"    
+               TextColor="Black"
+               FontSize="30"
+               FontAttributes="Bold" 
+               HorizontalTextAlignment="Center"/>
+        
+        <Button Text="Stack Layout Page" 
+                Clicked="OnStackLayoutPageClicked" 
+                CornerRadius="8"
+                TextColor="White"
+                BackgroundColor="#506697" />
+        
+        <Button Text="Absolute Layout Page" 
+                Clicked="OnAbsoluteLayoutPageClicked" 
+                CornerRadius="8"
+                TextColor="White"
+                BackgroundColor="#D6C3FA"   />
+        
+        <Button Text="Relative Layout Page" 
+                Clicked="OnRelativeLayoutPageClicked" 
+                CornerRadius="8"
+                TextColor="White"
+                BackgroundColor="#CFC68D" />
+        
+        <Button Text="Grid Page" 
+                Clicked="OnGridPageClicked" 
+                CornerRadius="8"
+                TextColor="White"
+                BackgroundColor="#000000" />
+        
+    </StackLayout>
+    
+</ContentPage>

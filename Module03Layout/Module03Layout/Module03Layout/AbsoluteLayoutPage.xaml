@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module03Layout.AbsoluteLayoutPage"
+             Title="Absolute Layout Page">
+    <ContentPage.Content>
+
+        <AbsoluteLayout>
+
+            <Image Source="absoluteLayoutImage.jpg" 
+                   AbsoluteLayout.LayoutBounds="100,200,150,150" />
+
+            <Label Text="AbsoluteLayout Example" 
+                   AbsoluteLayout.LayoutBounds="96,350"
+                   FontAttributes = "Bold"
+                   TextColor="#D6C3FA" />
+
+        </AbsoluteLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

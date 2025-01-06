@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermarionintendogamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermarionintendogamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariolevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariolevels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\switchcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariocollectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariocollectionview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariopowerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariopowerups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\entrycell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariocharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariocharacters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\imagecell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermarioarcadegamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermarioarcadegamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\textcell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariocollectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariocollectionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\supermariowiigamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\supermariowiigamename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB41DB7-115C-49B1-8756-73E2633F3130}|Module04View\\Module04View.Android\\Module04View.Android.csproj|D:\\PC\\Coding Grinds\\Repositories\\Module04View\\module04view\\module04view.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB41DB7-115C-49B1-8756-73E2633F3130}|Module04View\\Module04View.Android\\Module04View.Android.csproj|solutionrelative:module04view\\module04view.android\\resources\\values\\styles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB41DB7-115C-49B1-8756-73E2633F3130}|Module04View\\Module04View.Android\\Module04View.Android.csproj|D:\\PC\\Coding Grinds\\Repositories\\Module04View\\module04view\\module04view.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAB41DB7-115C-49B1-8756-73E2633F3130}|Module04View\\Module04View.Android\\Module04View.Android.csproj|solutionrelative:module04view\\module04view.android\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\module04view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\module04view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|d:\\pc\\coding grinds\\repositories\\module04view\\module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF317CBF-04BC-4406-BA4C-DC381A44F459}|Module04View\\Module04View\\Module04View.csproj|solutionrelative:module04view\\module04view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextCell.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\TextCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T06:48:10.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperMarioCollectionView.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCollectionView.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioCollectionView.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCollectionView.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioCollectionView.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:21:30.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuperMarioPowerUps.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioPowerUps.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioPowerUps.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioPowerUps.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioPowerUps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:31:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\MainPage.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T05:33:22.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntryCell.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\EntryCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:22:52.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperMarioLevels.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioLevels.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioLevels.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioLevels.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioLevels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:34:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwitchCell.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwGoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:44:30.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperMarioNintendoGameName.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioNintendoGameName.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioNintendoGameName.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioNintendoGameName.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioNintendoGameName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:53:07.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\MainPage.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:33:54.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntryCell.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\EntryCell.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\EntryCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\EntryCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T12:40:33.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuperMarioCharacters.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCharacters.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioCharacters.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCharacters.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioCharacters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:26:34.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwitchCell.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SwitchCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\SwitchCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T14:44:15.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageCell.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\ImageCell.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:10:33.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageCell.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\ImageCell.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\ImageCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\ImageCell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T02:26:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuperMarioArcadeGameName.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioArcadeGameName.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioArcadeGameName.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioArcadeGameName.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioArcadeGameName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T06:59:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextCell.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\TextCell.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\TextCell.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\TextCell.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T06:08:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SuperMarioCollectionView.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCollectionView.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioCollectionView.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioCollectionView.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioCollectionView.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEQAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:33:09.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuperMarioWIIGameName.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioWIIGameName.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\SuperMarioWIIGameName.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\SuperMarioWIIGameName.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\SuperMarioWIIGameName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:07:11.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "styles.xml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View.Android\\Resources\\values\\styles.xml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View.Android\\Resources\\values\\styles.xml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View.Android\\Resources\\values\\styles.xml",
+              "RelativeToolTip": "Module04View\\Module04View.Android\\Resources\\values\\styles.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-13T16:18:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\App.xaml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\App.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\App.xaml",
+              "RelativeToolTip": "Module04View\\Module04View\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T05:50:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "colors.xml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View.Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Module04View\\Module04View.Android\\Resources\\values\\colors.xml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View.Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Module04View\\Module04View.Android\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-13T16:20:27.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Module04View.csproj",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\Module04View.csproj",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\Module04View.csproj",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\Module04View.csproj",
+              "RelativeToolTip": "Module04View\\Module04View\\Module04View.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T02:25:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Module04View\\Module04View\\App.xaml.cs",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04View\\Module04View\\Module04View\\App.xaml.cs",
+              "RelativeToolTip": "Module04View\\Module04View\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T05:50:02.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

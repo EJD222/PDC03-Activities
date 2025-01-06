@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PC\\Coding Grinds\\Repositories\\Module04Activity02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822131D7-D454-4587-BA16-ED1F5DB15EBB}|Module04Activity02\\Module04Activity02\\Module04Activity02.csproj|d:\\pc\\coding grinds\\repositories\\module04activity02\\module04activity02\\module04activity02\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{822131D7-D454-4587-BA16-ED1F5DB15EBB}|Module04Activity02\\Module04Activity02\\Module04Activity02.csproj|solutionrelative:module04activity02\\module04activity02\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822131D7-D454-4587-BA16-ED1F5DB15EBB}|Module04Activity02\\Module04Activity02\\Module04Activity02.csproj|d:\\pc\\coding grinds\\repositories\\module04activity02\\module04activity02\\module04activity02\\module04activity02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{822131D7-D454-4587-BA16-ED1F5DB15EBB}|Module04Activity02\\Module04Activity02\\Module04Activity02.csproj|solutionrelative:module04activity02\\module04activity02\\module04activity02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module04Activity02",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04Activity02\\Module04Activity02\\Module04Activity02\\Module04Activity02.csproj",
+              "RelativeDocumentMoniker": "Module04Activity02\\Module04Activity02\\Module04Activity02.csproj",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04Activity02\\Module04Activity02\\Module04Activity02\\Module04Activity02.csproj",
+              "RelativeToolTip": "Module04Activity02\\Module04Activity02\\Module04Activity02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T04:55:07.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\PC\\Coding Grinds\\Repositories\\Module04Activity02\\Module04Activity02\\Module04Activity02\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Module04Activity02\\Module04Activity02\\MainPage.xaml",
+              "ToolTip": "D:\\PC\\Coding Grinds\\Repositories\\Module04Activity02\\Module04Activity02\\Module04Activity02\\MainPage.xaml",
+              "RelativeToolTip": "Module04Activity02\\Module04Activity02\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T04:55:03.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

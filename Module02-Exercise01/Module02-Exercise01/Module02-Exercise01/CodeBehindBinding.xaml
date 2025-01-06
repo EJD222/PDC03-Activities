@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module02_Exercise01.CodeBehindBinding"
+             Title="View to Code-Behind Data Binding">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+
+            <!--Simple Form-->
+            <StackLayout>
+                <Label Text="Name"
+                       FontAttributes="Bold"
+                       FontSize="Medium"/>
+                <Entry x:Name="NameEntry"  Placeholder="Enter Your Name" />
+
+                <Label Text="Age"
+                       FontAttributes="Bold"
+                       FontSize="Medium"/>
+                <Slider x:Name="AgeSlider"
+                        Maximum="100"
+                        MaximumTrackColor="Black"
+                        MinimumTrackColor="Black"
+                        ThumbColor="Black"
+                        ValueChanged="OnAgeSliderValueChanged"/>
+                <Label x:Name="AgeLabel"/>
+
+                <Label Text="Birthday"
+                       FontAttributes="Bold"
+                       FontSize="Medium"/>
+                <DatePicker x:Name="BirthdayDatePicker" />
+
+                <Button Text="Submit" Clicked="OnSubmitClicked" />
+            </StackLayout>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

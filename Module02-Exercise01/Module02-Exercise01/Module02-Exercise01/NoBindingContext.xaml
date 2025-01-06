@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module02_Exercise01.NoBindingContext"
+             Title="Without Binding Context">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                     Padding="10"
+                     Spacing="50">
+
+            <!-- UI Element 1: TimePicker -->
+            <StackLayout>
+                <Label Text="{Binding Source={x:Reference TimeSelector}, Path=Time, StringFormat='Selected Time: {0:t}'}" 
+                       FontAttributes="Bold"
+                       FontSize="20"
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center"/>
+                <TimePicker x:Name="TimeSelector" />
+            </StackLayout>
+
+            <!-- UI Element 2: Switch -->
+            <StackLayout>
+                <Label Text="{Binding Source={x:Reference ToggleSwitch}, Path=IsToggled, StringFormat='Switch is {0}'}" 
+                       FontAttributes="Bold"
+                       FontSize="20"                       
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center"/>
+                <Switch x:Name="ToggleSwitch" 
+                        VerticalOptions="Center" 
+                        HorizontalOptions="Center"/>
+            </StackLayout>
+
+            <!-- UI Element 3: Stepper -->
+            <StackLayout>
+                <Label Text="{Binding Source={x:Reference CounterStepper}, Path=Value, StringFormat='Counter: {0:F0}'}" 
+                       FontAttributes="Bold"
+                       FontSize="20"                      
+                       VerticalOptions="Center" 
+                       HorizontalOptions="Center"/>
+                <Stepper x:Name="CounterStepper" 
+                         Maximum="100" 
+                         VerticalOptions="Center" 
+                         HorizontalOptions="Center"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

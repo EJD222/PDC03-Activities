@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module02_Exercise01.MainPage" 
+             Title="ELMALIA JANE S. DIAZ">
+
+    <StackLayout>
+        <Label Text="This is Module02-Exercise01."
+               FontAttributes="Bold"
+               FontSize="20"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="CenterAndExpand"/>
+        <Button Text="View to View Data Binding" Clicked="ViewDataBindingPage"/>
+        <Button Text="Code Behind Data Binding" Clicked="CodeBehindBindingPage"/>
+        <Button Text="Data Binding without Binding Context" Clicked="NoBindingContextPage"/>
+    </StackLayout>
+    
+</ContentPage>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module04View.EntryCell"
+             Title="Trivia Questions">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#FFFFFFF" 
+                     Padding="25">
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection>
+                        <EntryCell Label="What is the first Mario game?"
+                                   x:Name="Q1"/>
+                        <EntryCell Label="What game did Mario first appeared?"
+                                   x:Name="Q2"/>
+                        <EntryCell Label="What was Mario's original name?"
+                                   x:Name="Q3"/>
+                        <EntryCell Label="What is the name of Mario’s brother?"
+                                   x:Name="Q4"/>
+                        <EntryCell Label="What does Mario do for a living?"
+                                   x:Name="Q5"/>
+                        <EntryCell Label="In which game did Yoshi first appear?"
+                                   x:Name="Q6"/>
+                        <EntryCell Label="Who is Mario’s arch-enemy?"
+                                   x:Name="Q7"/>
+                        <EntryCell Label="What species is Bowser?"
+                                   x:Name="Q8"/>
+                        <EntryCell Label="What color is Mario’s hat?"
+                                   x:Name="Q9"/>
+                        <EntryCell Label="Who created ‘Super Mario Bros.’?"
+                                   x:Name="Q10"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+            <Button Text="Submit" Clicked="OnSubmitEntry"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
